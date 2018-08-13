@@ -2,7 +2,6 @@ package net.monde.hans.invoices.rest;
 
 
 import net.monde.hans.invoices.model.Invoice;
-import net.monde.hans.invoices.rest.util.InvalidInputException;
 import net.monde.hans.invoices.services.InvoicesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
